@@ -22,7 +22,8 @@ StudyUp offers an intuitive and user-friendly interface that allows users to eff
 - **Cross-Platform Compatibility**: StudyUp supports major web browsers and mobile devices, ensuring accessibility across various platforms.
 
 ## Cloud Architecture
-![image](https://github.com/BOSS294/StudyUp---Online-Video-Calling-Website/assets/72921622/51f1d94f-161c-4788-873b-2ac3cdd119cf)
+![image](https://github.com/BOSS294/StudyUp---Online-Video-Calling-Website/assets/72921622/cf8ebe19-3fc0-48b5-a1a4-0c5a41ae0e25)
+
 
 
 ## Contributing
