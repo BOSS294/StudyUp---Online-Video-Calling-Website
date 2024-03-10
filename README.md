@@ -21,6 +21,10 @@ StudyUp offers an intuitive and user-friendly interface that allows users to eff
 - **Integration with Productivity Tools**: Seamlessly integrate with productivity tools like Google Workspace, Microsoft Office, and project management platforms for enhanced workflow efficiency.
 - **Cross-Platform Compatibility**: StudyUp supports major web browsers and mobile devices, ensuring accessibility across various platforms.
 
+## Cloud Architecture
+![image](https://github.com/BOSS294/StudyUp---Online-Video-Calling-Website/assets/72921622/51f1d94f-161c-4788-873b-2ac3cdd119cf)
+
+
 ## Contributing
 
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve StudyUp.
